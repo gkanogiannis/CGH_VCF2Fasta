@@ -1,0 +1,6 @@
+/target/
+/WebContent/
+/.settings/
+/.classpath
+/.project
+/CassavaGenomeHub_VCF2Fasta-0.0.1-SNAPSHOT.war
