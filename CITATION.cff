@@ -6,6 +6,6 @@ authors:
     orcid: https://orcid.org/0000-0002-6441-0688
 title: "CGH_VCF2Fasta. Web utility (Vaadin) for the cassavagenomehub.org (CGH) to convert vcf to fasta."
 version: 1.0.0
-doi: 10.5281/zenodo.
+doi: 10.5281/zenodo.5764844
 date-released: 2021-12-07
 url: "https://github.com/gkanogiannis/CGH_VCF2Fasta"
